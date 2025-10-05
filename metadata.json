@@ -1,0 +1,5 @@
+{
+  "name": "Zenith To-Do",
+  "description": "A simple and beautiful to-do list application that works seamlessly across Windows and Android devices. Manage your tasks with ease, powered by a clean interface and local storage persistence.",
+  "requestFramePermissions": []
+}
